@@ -32,7 +32,14 @@ The third step is to compute the informations I want to display on my dashboards
 ### 4. Dashboards
 The lat step of the project is to build dashboards to show and analyse those data. You can find those dashboards on the following link: [Dashboards](https://public.tableau.com/views/Portfolio_optimization/Story1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link) 
 
-You will find there 2 dashboards, the first one (Assets Analysis) enables to have an overview of the characteristics of the 3 assets. The second one (Portfolios analysis), will enables you to analyse the efficiency (return, volatility, sharpe ratio,...) of different portfolios. This last dashboard is interactiv, it means that you can click on the efficient frontier/ efficient frontier distribution plots to filter the data of the dashboards and so have informations about the desired dashboard(s).
+You will find there 2 dashboards, the first one (Assets Analysis) enables to have an overview of the characteristics of the 3 assets. 
+
+<img title="dashboard 1" alt="dashboard 1" src="./Images/dash_1.png" width="1000">
+
+The second one (Portfolios analysis), will enables you to analyse the efficiency (return, volatility, sharpe ratio,...) of different portfolios. This last dashboard has some interactivity, it means that you can click on the efficient frontier/ efficient frontier distribution plots to filter the data of the dashboards and so have informations about the desired dashboard(s).
+
+<img title="dashboard 2" alt="dashboard 2" src="./Images/dash2.png" width="1000">
+
 
 ## Limits of the project
 The use of tableau public was a limitation for this project, indeed tableau (not public), enables to use directly R/python codes. This would make possible some functionnalities like: user can chose a time range to analyse, user canchoose a time frequency which would change the volatility,...
