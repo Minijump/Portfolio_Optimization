@@ -23,7 +23,7 @@ The project leads gaves me a few days to work on a solution in which the user ca
 The next step is to collect the datas we will analyse. I used [yahoo finance](https://pypi.org/project/yfinance/) to get datas on the price of __wheat__, __oil__ and __natural gas__. You can find the coe use to collect and clean those datas on the file [data collection](./Data/data_collection.ipynb)
 
 ### 3. Computation with python
-The third step is to compute the informations I want to display on my dashboards with python. You can find those codes in the file [Portfolios](Portfolios.ipynb). In this part, for each time rage (all, 10 years, 5 years, 2 years, 1 year), I:
+The third step is to compute the informations I want to display on my dashboards with python. You can find those codes in the file [Portfolios](./Data/Portfolios.ipynb). In this part, for each time rage (all, 10 years, 5 years, 2 years, 1 year), I:
 * Create the portfolios' distribution. One column for each assets with its weight in the portfolio.
 * For all those portfolios, tthe desired datas are computed (Total Return, Avg annual return, volatility, sharpe ratio)
 * Also measures like return of the wheat asset are also computed. This adds usless data but make it easier to build the dashboards later.
