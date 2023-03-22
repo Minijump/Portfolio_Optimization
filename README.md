@@ -41,8 +41,13 @@ The second one (Portfolios analysis), will enables you to analyse the efficiency
 
 
 ## Limits of the project
-The use of tableau public was a limitation for this project, indeed tableau (not public), enables to use directly R/python codes. This would make possible some functionnalities like: user can chose a time range to analyse, user canchoose a time frequency which would change the volatility,...
-Also, Tableau (not public) enables DataBases connection. This wouuld make possible to have a tool that updates automaticly when we have new informations on the prices of assets.
+In order to improve this project here is some possibilities:
 
+* The dashboard updates automatically when new informations are added into a database.
+* The user can choose a frequency and a complete time range (start and end) to analyse.
+* The user can choose which assets he wants to analyse.
+* Add more insights(sortino ratio, mean average based on the frequency, ...)
+
+These improvements could be added using Tableau (not Tableau public). Indeed, Tableau enables connection to databases and enables R/Python computation.
 
 __contributor:__ _[Jumpertz Sacha](www.linkedin.com/in/jumpertz-sacha)_
