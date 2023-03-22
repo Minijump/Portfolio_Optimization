@@ -35,7 +35,7 @@ You will find there 2 dashboards, the first one (Assets Analysis) enables to hav
 
 <img title="dashboard 1" alt="dashboard 1" src="./Images/dash_1.png" width="1000">
 
-The second one (Portfolios analysis), will enables you to analyse the efficiency (return, volatility, sharpe ratio,...) of different portfolios. This last dashboard has some interactivity, it means that you can click on the efficient frontier/ efficient frontier distribution plots to filter the data of the dashboards and so have informations about the desired dashboard(s).
+The second one (Portfolios analysis), will enables you to analyse the efficiency (return, volatility, sharpe ratio,...) of different portfolios. This last dashboard has some interactivity, it means that you can click on the efficient frontier/ efficient frontier distribution plots to filter the data of the dashboards and so have informations about the desired portfolio(s).
 
 <img title="dashboard 2" alt="dashboard 2" src="./Images/dash2.png" width="1000">
 
