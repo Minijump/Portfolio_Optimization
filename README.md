@@ -20,7 +20,7 @@ The project leads gaves me a few days to work on a solution in which the user ca
  The first step of the project was to understand what was required from me. In the file ["Vocabulary"](Vocabulary.ipynb) you will find an explaination of the different data I displayed on my dashboard.
 
 ### 2. Data Collection
-The next step is to collect the datas we will analyse. I used [yahoo finance](https://pypi.org/project/yfinance/) to get datas on the price of __wheat__, __oil__ and __natural gas__. You can find the coe use to collect and clean those datas on the file [data collection](./Data/data_collection.ipynb)
+The next step is to collect the datas we will analyse. I used [yahoo finance](https://pypi.org/project/yfinance/) to get datas on the price of __wheat__, __oil__ and __natural gas__. You can find the code use to collect and clean those datas on the file [data collection](./Data/data_collection.ipynb)
 
 ### 3. Computation with python
 The third step is to compute the informations I want to display on my dashboards with python. You can find those codes in the file [Portfolios](./Data/Portfolios.ipynb). In this part, for each time rage (all, 10 years, 5 years, 2 years, 1 year), I:
